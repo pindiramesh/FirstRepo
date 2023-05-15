@@ -1,0 +1,16 @@
+package com.java8;
+
+import java.util.Arrays;
+
+public class interviewPractice {
+	public static void main(String[] args) {
+		String input="ilovejava";
+		String[] results=input.split("");
+		System.out.println(Arrays.toString(results));
+		
+		
+		
+		//to find out count the occuerence of each character in string
+	}
+
+}

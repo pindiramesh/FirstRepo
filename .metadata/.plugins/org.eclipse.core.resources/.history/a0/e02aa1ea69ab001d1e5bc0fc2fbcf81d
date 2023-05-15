@@ -1,0 +1,10 @@
+package com.java8.Beans;
+
+public class Employee {
+	public int id;
+	public String name;
+	public string dept;
+	public int sal;
+	
+
+}

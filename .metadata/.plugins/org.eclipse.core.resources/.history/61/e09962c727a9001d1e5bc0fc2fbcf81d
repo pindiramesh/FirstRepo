@@ -1,0 +1,11 @@
+package com.java8;
+
+interface Calculator{
+	void switchon();
+}
+
+public class FunctionalInterfPractice {
+public static void main(String[] args) {
+	
+}
+}

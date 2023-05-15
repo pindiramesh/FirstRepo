@@ -1,0 +1,10 @@
+package com.java8;
+
+public class interviewPractice {
+	public static void main(String[] args) {
+		String input="ilovejava";
+		String[] results=input.split("");
+		System.out.println(results);
+	}
+
+}

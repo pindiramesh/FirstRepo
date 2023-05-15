@@ -1,0 +1,19 @@
+package com.java8;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class StreamsDemo {
+	public static void main(String[] args) {
+		List<String> list=new ArrayList<>();
+		list.add("ram");
+		list.add("sup");
+		list.add("Frut");
+		list.add("pindi");
+		list.add("pinisup");
+		list.stream().forEach(t->System.out.println(t)); //t->s.o.p represents the consumer
+		
+		
+	}
+
+}
